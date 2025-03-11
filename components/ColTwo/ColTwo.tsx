@@ -1,4 +1,3 @@
-import goatSwip from "@/public/goatSwip.png"
 import Image from "next/image"
 import goat from "@/public/goat3D.gif"
 

@@ -15,7 +15,6 @@ import Marquee from "@/components/Marquee/Marquee";
 export default function Home() {
   return (
 <div className="relative w-full min-h-screen">
-  //url('/tek3.png')
   <div className="absolute inset-0 bg-[url('/tek3.png')] bg-repeat animate-scroll"></div>
 
   <div className="relative z-10 flex items-center justify-center min-h-screen text-white">

@@ -1,5 +1,4 @@
 import Image from "next/image"
-import tns from "@/public/tns.png"
 import tns3d from "@/public/tans3D.gif"
 const Genres = () => {
     return(

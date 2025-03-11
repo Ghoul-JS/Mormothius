@@ -1,8 +1,4 @@
 import bat1 from "@/public/bats/bat1.gif"
-import bat2 from "@/public/bats/bat2.gif"
-import bat3 from "@/public/bats/bat3.gif"
-
-import text3d from "@/public/text3d/link3d.gif"
 import genres3d from "@/public/text3d/genres3d.gif"
 
 import Image from "next/image"
