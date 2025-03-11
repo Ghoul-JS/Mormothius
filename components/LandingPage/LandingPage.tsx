@@ -1,6 +1,5 @@
 import Image from "next/image";
 import goat from "@/public/goat.png";
-import wrapperBg from "@/public/mmtWrapper.png";
 
 const LandingPage = () => {
     return (
